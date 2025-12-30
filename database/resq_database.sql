@@ -74,5 +74,9 @@ CREATE TABLE percorso (
     FOREIGN KEY (id_utente)
     REFERENCES utente(id_utente)
 );
+-- =========================================
+-- Schema database RESQ
+-- Aggiornato da Yvette – 30/12/2025
+-- =========================================
 
 
